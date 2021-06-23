@@ -2,6 +2,7 @@
 <br/>
 
 
+
 <h5 style="color:orange">A Model trained with data set containing the xray of normal and covid confirmed patients is used to automatically detect whether a new chest xray image of any person has covid or not</h5>
 
 <h5>A Model trained with data set containing the xray of normal and covid confirmed patients is used to automatically detect whether a new chest xray image of any person has covid or not</h5>
